@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "An app for recording public notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpickens0215/notebook.git"
+  },
+  "author": "Justin Pickens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcpickens0215/notebook/issues"
+  },
+  "homepage": "https://github.com/jcpickens0215/notebook#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
