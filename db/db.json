@@ -1,1 +1,7 @@
-[{"title":"Test Title","text":"Test text"},{"title":"Test Title 2!","text":"Test text"}]
+[
+    {
+        "title":"Click Me!",
+        "text":"To add a new note, click on the '+' button on the top right. When you have finished your note, you can save it by clicking the floppy disk next to the '+' button.",
+        "id":"123e4567-e89b-12d3-a456-426614174000"
+    }
+]
